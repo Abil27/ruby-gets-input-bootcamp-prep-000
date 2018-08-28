@@ -4,4 +4,4 @@ end
 
 puts "Hello programmer what is your name"
 name = gets.chomp
-greeting
+greeting(name)
