@@ -3,8 +3,3 @@ def greeting(name)
 end
 
 greeting("Houssein")
-
-puts "Whats is your dream"
-answer = gets.strip
-
-puts "Work hard you gonna become a great #{answer}"
